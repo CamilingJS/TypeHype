@@ -1,2 +1,2 @@
 # TypeHype
-## https://type-hype.netlify.app/
+## https://typinggame007.netlify.app/
